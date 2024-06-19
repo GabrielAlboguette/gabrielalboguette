@@ -12,7 +12,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
-  <img align="right"  height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1073005624008384604/1073005985439940670/image.png?width=676&height=676">
+  <img align="right"  height="150" style="border-radius:50;" src="https://cdn.discordapp.com/attachments/1073005624008384604/1073005985439940670/image.png?ex=66735a32&is=667208b2&hm=ef342073703e3e63373248d219fa27bcc6e4d79c89313fc3e5cd2de5af7fa6f1">
 </div>
   
   ##
@@ -26,5 +26,5 @@
 </div>
 
 
-- 🌱 Estudando C#/API
+- 🌱 Trabalhando na META C#/API
 
